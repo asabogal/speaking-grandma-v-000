@@ -5,9 +5,9 @@ if phrase == "I LOVE YOU GRANDMA!"
 elsif
   phrase.downcase
   "HUH?! SPEAK UP, SONNY!"
-  
+
 else
-  "NO, NOT SINCE 1938!"
+return   "NO, NOT SINCE 1938!"
 end
 end
 
