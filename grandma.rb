@@ -4,7 +4,7 @@ if phrase == "I LOVE YOU GRANDMA!"
   "I LOVE YOU TOO PUMPKIN!"
 
 elsif phrase == phrase.downcase()
-  return "HUH?! SPEAK UP, SONNY!"
+  return "I LOVE YOU TOO PUMPKIN!"
 
 else
   return "NO, NOT SINCE 1938!"
