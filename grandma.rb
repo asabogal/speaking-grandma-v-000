@@ -6,7 +6,7 @@ if phrase == "I LOVE YOU GRANDMA!"
 elsif phrase == phrase.downcase()
   return "I LOVE YOU TOO PUMPKIN!"
 
-else
+elsif phrase == phrase.upcase
   return "NO, NOT SINCE 1938!"
   end
 
