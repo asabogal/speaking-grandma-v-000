@@ -5,9 +5,6 @@ if phrase == "I LOVE YOU GRANDMA!"
 end
 
 phrase == phrase.downcase ? "HUH?! SPEAK UP, SONNY!" : "NO, NOT SINCE 1938!"
-  "HUH?! SPEAK UP, SONNY!"
-
-
 end
 
 
